@@ -1,4 +1,6 @@
-# Technological-Showdown
+# Technological-Showdown: Innovation Infusion
+
+
 A programming competition where software engineers compete in speed between low-code/no-code VS traditional programming.
 
 **General Description:**  
