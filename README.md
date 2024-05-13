@@ -1,10 +1,10 @@
 # Technological-Showdown: Innovation Infusion
 
 
-A programming competition where software engineers compete in speed between low-code/no-code VS traditional programming.
+An application creation challenge where software developers compete in speed between low-code/no-code and traditional programming..
 
 **General Description:**  
-The competition lasts for a total of 4 hours, with at least two participants/teams - one focusing on low-code/no-code solutions and the other on traditional programming - solving given tasks. The competition consists of two 1-hour programming sessions followed by evaluation and discussion sessions.
+The challenge spans a total of 4 hours and involves at least two participants or teams—one focusing on low-code/no-code solutions and the other on traditional programming—working to solve assigned tasks. The competition includes two 1-hour programming sessions, followed by evaluation and discussion sessions.
 
 **Rules:**  
 **1. General Organization of the Competition:**  
